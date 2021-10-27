@@ -1,0 +1,12 @@
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\UploaderService.exe.config
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\UploaderService.exe
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\UploaderService.pdb
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\CTSLibrary.dll
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\CTSWrapper.dll
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\NGCTSEncryption.dll
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\Jtswrapper.dll
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\bin\Debug\ADODB.dll
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\obj\Debug\UploaderService.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\obj\Debug\UploaderService.exe
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\obj\Debug\UploaderService.pdb
+C:\Users\kalpit.jindal\source\repos\UploaderService\UploaderService\obj\Debug\UploaderService.csproj.AssemblyReference.cache
